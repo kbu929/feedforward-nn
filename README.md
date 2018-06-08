@@ -2,6 +2,8 @@
 
 Vanilla implementation of Neural Networks
 
+## Logistic Regression
+
 * `LogisticRegression1.py`
     * Logistic Regression with a Neural Network mindset 
 * `LogisticRegression2.py` 
@@ -17,7 +19,10 @@ Vanilla implementation of Neural Networks
 * `LogisticRegressionOptimizer.py`
     * minibatch, momentum, adam
 
-    
+## Softmax Regression
+* `SoftmaxRegression.py`
+    * N-layers, initializer, regularizer, optimizer
+
 
  
 
